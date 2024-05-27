@@ -17,5 +17,10 @@
   </dependencies>
   <build>
     <finalName>maven_web_apps</finalName>
+     <resources>
+        <resource>
+            <directory>src/main/resources</directory>
+        </resource>
+    </resources>
   </build>
 </project>
